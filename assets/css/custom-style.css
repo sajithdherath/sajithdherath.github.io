@@ -7,3 +7,9 @@ blockquote {
     background: whitesmoke;
     border: 1px solid;
 }
+
+.author-description{
+    text-align: justify;
+    width: 50%;
+    margin: 15px 0 0px 25%;
+}
