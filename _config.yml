@@ -3,7 +3,7 @@ subtitle: Tech Enthusiast, Traveller
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
 
-url: "http://sajithdherath.github.io/" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "http://sajiya.dev/" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -13,8 +13,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
+#    - text: Shop
+#      url : /shop
     - text: Contact Me
       url : /contact
     - text: Get Started
@@ -35,7 +35,8 @@ author_location: Sri Lanka
 author_website_url: "http://sajithdherath.github.io/"
 
 author_timeline:
-            - "2015-2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster: BEng in Software Engineering<br>"
+            - "2015-2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster:
+            BEng in Software Engineering<br>"
             - "2017-2018: Intern on Software Engineering: Fortunaglobal (Pvt) Limited<br>"
             - "2019-present: Software Engineer in Machine Learning: Arimac Lanka<br>"
 
@@ -58,7 +59,7 @@ wakatime_username: sajithdherath
 mailchimp_form_url:
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: sajithdherath@gmail.com
 
 # syntax highlighter
 markdown: kramdown
