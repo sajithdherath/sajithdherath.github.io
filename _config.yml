@@ -53,7 +53,7 @@ medium_username: sajithdherath
 disqus_shortname: desajja
 
 # wakatime username (coding activity)
-wakatime_username: sajithdherath
+wakatime_username:
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url:
@@ -67,7 +67,7 @@ highlighter: rouge
 permalink: pretty
 
 # google analytics
-google_analytics: UA-46783401-10
+google_analytics: UA-93971208-2
 
 # Choose what to show ( can be true or false)
 show_author_timeline: true
