@@ -14,6 +14,37 @@ blockquote {
     width: 50%;
     margin: 15px 0 0px 25%;
 }
+#recent-articles,#recent-projects{
+    margin-top: 100px !important;
+}
+
+#recent-articles-header{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 17fr 2fr;
+}
+#article-img, #article-link, #article-alert{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 4px;
+}
+.recent-article-link{
+    font-size: 20px;
+    text-decoration: none;
+}
+.article-card-link, .article-card-link:hover{
+    text-decoration: none;
+    color: orange !important;
+}
+.article-card{
+    list-style-type: none;
+}
+.article-card a :hover{
+    text-decoration: none;
+    background: #303030!important;
+    border-color: #303030;
+    background: transparent;
+}
 
 /* Large desktop */
 @media (min-width: 1200px) {
