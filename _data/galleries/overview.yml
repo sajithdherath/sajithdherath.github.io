@@ -1,9 +1,8 @@
--
-  title: Mountains
-  directory: mountains
+- title: Landscapes
+  directory: landscapes
   preview:
-    filename: 1.jpg
-    original: 1-thumbnail.jpg
+    filename: sripada1.jpg
+    original: sripada1.jpg
     sizes:
-    - 1-thumbnail.jpg
-    thumbnail: 1-thumbnail.jpg
+      - sripada1.jpg
+    thumbnail: sripada1-tb.jpg
