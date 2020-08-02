@@ -13,7 +13,7 @@ layout: default
     });
 </script>
 
-
+<!--main introduction-->
 <div class="col-lg-8 offset-md-2">
     <div class="jumbotron" style="text-align: center;">
         <h1 class="display-4">Hello, I am {{site.author}} 👋</h1>
@@ -21,4 +21,56 @@ layout: default
         <p class="lead" id="typewriteText"></p>
         <button class="btn btn-dark btn-lg"><a href="/about"> About Me </a></button>
     </div>
+</div>
+
+<!--Skills-->
+<div class="col-lg-8 offset-md-2">
+    <h1 class="card-title text-center">Technologies I can help you with</h1>
+    <div class="constant-simple-slider" id=""
+         data-slick='{"slidesToShow": 6, "slidesToScroll": 1, "infinite": true, "arrows":false, "autoplay":true, "autoplaySpeed":0, "responsive":[{"breakpoint": 768, "settings":{"slidesToShow":4 }},{"breakpoint": 480, "settings":{"slidesToShow":4 }}]}'>
+        {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        <div>
+            <a href="{{ site.baseurl }}/blog/categories/{{ category_name }}"><img
+                    src="/assets/img/skills/{{category_name}}.png" width="96" height="96"></a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+</div>
+
+<!--Recent Articles -->
+<div class="col-lg-8 offset-md-2">
+    <section id="recent-articles">
+        <div id="recent-articles-header">
+            <div id="recent-articles-title">
+                <h1 class="card-title">Recent Articles</h1>
+            </div>
+            <div id="recent-articles-show-all">
+                <a class="btn btn-lg btn-dark" href="/blog"> View All </a>
+            </div>
+        </div>
+        <br/>
+
+        <ul>
+            {% for post in site.posts limit:5 %}
+            <li class="article-card">
+                <a href="{{post.url}}" class="article-card-link">
+                    <div id="article-container">
+                        <div id="article-link">
+                            <p class="recent-article-link">{{post.title}} <span style="color: #ccc; font-size: 15px;"> - <i><time
+                                    datetime="{{ post.date }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></i></span>
+                            </p>
+                        </div>
+                        <div id="article-alert">
+                            {% for cat in post.category limit:1 %}
+                            <button class="btn btn-sm btn-dark">{{cat}}</button>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
 </div>
