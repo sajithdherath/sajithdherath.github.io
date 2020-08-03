@@ -3,21 +3,28 @@ preview:
   filename: sripada
   original: sripada1.jpg
   sizes:
-  - sripada1.jpg
+    - sripada1.jpg
   thumbnail: sripada1-tb.jpg
 pictures:
-- filename: sripada
-  original: sripada1.jpg
-  sizes:
-  - sripada1.jpg
-  thumbnail: sripada1-tb.jpg
-- filename: sripada
-  original: sripada2.jpg
-  sizes:
-  - sripada2.jpg
-  thumbnail: sripada2-tb.jpg
-- filename: home
-  original: home1.jpg
-  sizes:
-  - home1.jpg
-  thumbnail: home1-tb.jpg
+  - filename: sripada
+    original: sripada1.jpg
+    sizes:
+      - sripada1.jpg
+    thumbnail: sripada1-tb.jpg
+  - filename: sripada
+    original: sripada2.jpg
+    sizes:
+      - sripada2.jpg
+    thumbnail: sripada2-tb.jpg
+
+  - filename: rambukkana1
+    original: rambukkana1.jpg
+    sizes:
+      - rambukkana1.jpg
+    thumbnail: rambukkana1-tb.jpg
+
+  - filename: DSC04430
+    original: DSC04430.jpg
+    sizes:
+      - DSC04430.jpg
+    thumbnail: DSC04430-tb.jpg

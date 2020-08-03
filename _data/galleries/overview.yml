@@ -6,3 +6,65 @@
     sizes:
       - sripada1.jpg
     thumbnail: sripada1-tb.jpg
+
+- title: Wildlife
+  directory: wildlife
+  preview:
+    filename: DSC06392
+    original: DSC06392.jpg
+    sizes:
+      - DSC06392.jpg
+    thumbnail: DSC06392-tb.jpg
+
+- title: Architecture
+  directory: architecture
+  preview:
+    filename: MVIMG_20181124_175347
+    original: MVIMG_20181124_175347.jpg
+    sizes:
+      - MVIMG_20181124_175347.jpg
+    thumbnail: MVIMG_20181124_175347-tb.jpg
+- title: Nature
+  directory: nature
+  preview:
+    filename: DSC02792
+    original: DSC02792.jpg
+    sizes:
+      - DSC02792.jpg
+    thumbnail: DSC02792-tb.jpg
+
+- title: People
+  directory: people
+  preview:
+    filename: DSC05671
+    original: DSC05671.jpg
+    sizes:
+      - DSC05671.jpg
+    thumbnail: DSC05671-tb.jpg
+
+- title: Pets
+  directory: pets
+  preview:
+    filename: DSC06652-2
+    original: DSC06652-2.jpg
+    sizes:
+      - DSC06652-2.jpg
+    thumbnail: DSC06652-2-tb.jpg
+
+- title: Street
+  directory: street
+  preview:
+    filename: IMG_20190821_201725-2
+    original: IMG_20190821_201725-2.jpg
+    sizes:
+      - IMG_20190821_201725-2.jpg
+    thumbnail: IMG_20190821_201725-2-tb.jpg
+
+- title: Sunrise/Sunset
+  directory: sunrise-sunset
+  preview:
+    filename: sunset-40
+    original: sunset-40.jpg
+    sizes:
+      - sunset-40.jpg
+    thumbnail: sunset-40-tb.jpg

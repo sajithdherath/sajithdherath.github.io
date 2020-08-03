@@ -1,0 +1,14 @@
+picture_path: architecture
+pictures:
+- &id001
+  filename: MVIMG_20181124_175347
+  original: MVIMG_20181124_175347.jpg
+  sizes:
+  - MVIMG_20181124_175347.jpg
+  thumbnail: MVIMG_20181124_175347-tb.jpg
+- filename: IMG_20180115_173259-01
+  original: IMG_20180115_173259-01.jpeg
+  sizes:
+  - IMG_20180115_173259-01.jpeg
+  thumbnail: IMG_20180115_173259-01-tb.jpeg
+preview: *id001

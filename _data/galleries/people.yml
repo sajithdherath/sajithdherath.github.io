@@ -1,0 +1,9 @@
+picture_path: people
+pictures:
+- &id001
+  filename: DSC05671
+  original: DSC05671.jpg
+  sizes:
+  - DSC05671.jpg
+  thumbnail: DSC05671-tb.jpg
+preview: *id001

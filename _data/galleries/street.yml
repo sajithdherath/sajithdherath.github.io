@@ -1,0 +1,14 @@
+picture_path: street
+pictures:
+- &id001
+  filename: IMG_20190821_201725-2
+  original: IMG_20190821_201725-2.jpg
+  sizes:
+  - IMG_20190821_201725-2.jpg
+  thumbnail: IMG_20190821_201725-2-tb.jpg
+- filename: MVIMG_20180709_212127-01
+  original: MVIMG_20180709_212127-01.jpeg
+  sizes:
+  - MVIMG_20180709_212127-01.jpeg
+  thumbnail: MVIMG_20180709_212127-01-tb.jpeg
+preview: *id001

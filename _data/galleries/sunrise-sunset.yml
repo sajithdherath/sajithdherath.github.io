@@ -1,0 +1,29 @@
+picture_path: sunrise-sunset
+pictures:
+- &id001
+  filename: sunset-40
+  original: sunset-40.jpg
+  sizes:
+  - sunset-40.jpg
+  thumbnail: sunset-40-tb.jpg
+- filename: IMG_20190703_181203
+  original: IMG_20190703_181203.jpg
+  sizes:
+  - IMG_20190703_181203.jpg
+  thumbnail: IMG_20190703_181203-tb.jpg
+- filename: MVIMG_20180504_173043
+  original: MVIMG_20180504_173043.jpg
+  sizes:
+  - MVIMG_20180504_173043.jpg
+  thumbnail: MVIMG_20180504_173043-tb.jpg
+- filename: IMG_20190910_182303
+  original: IMG_20190910_182303.jpg
+  sizes:
+  - IMG_20190910_182303.jpg
+  thumbnail: IMG_20190910_182303-tb.jpg
+- filename: home1
+  original: home1.jpg
+  sizes:
+  - home1.jpg
+  thumbnail: home1-tb.jpg
+preview: *id001
