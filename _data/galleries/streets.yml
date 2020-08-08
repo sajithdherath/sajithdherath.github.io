@@ -1,0 +1,12 @@
+picture_path: street
+pictures:
+- &id001
+  filename: IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
+  original: IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
+  sizes:
+  - IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
+- filename: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+  original: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+  sizes:
+  - IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+preview: *id001

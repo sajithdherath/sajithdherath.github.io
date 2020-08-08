@@ -1,30 +1,27 @@
 picture_path: landscapes
 preview:
-  filename: sripada
-  original: sripada1.jpg
+  filename: sripada1_I5ZKzVnCwjO.jpg
+  original: sripada1_I5ZKzVnCwjO.jpg
   sizes:
-    - sripada1.jpg
-  thumbnail: sripada1-tb.jpg
+    - sripada1_I5ZKzVnCwjO.jpg
+
 pictures:
-  - filename: sripada
-    original: sripada1.jpg
+  - filename: sripada1_I5ZKzVnCwjO.jpg
+    original: sripada1_I5ZKzVnCwjO.jpg
     sizes:
-      - sripada1.jpg
-    thumbnail: sripada1-tb.jpg
-  - filename: sripada
-    original: sripada2.jpg
-    sizes:
-      - sripada2.jpg
-    thumbnail: sripada2-tb.jpg
+      - sripada1_I5ZKzVnCwjO.jpg
 
-  - filename: rambukkana1
-    original: rambukkana1.jpg
+  - filename: sripada2_W_Imq4N7g.jpg
+    original: sripada2_W_Imq4N7g.jpg
     sizes:
-      - rambukkana1.jpg
-    thumbnail: rambukkana1-tb.jpg
+      - sripada2_W_Imq4N7g.jpg
 
-  - filename: DSC04430
-    original: DSC04430.jpg
+  - filename: DSC04430_PJz5YWRDEDS.jpg
+    original: DSC04430_PJz5YWRDEDS.jpg
     sizes:
-      - DSC04430.jpg
-    thumbnail: DSC04430-tb.jpg
+      - DSC04430_PJz5YWRDEDS.jpg
+
+  - filename: rambukkana1_eKwHgDStC.jpg
+    original: rambukkana1_eKwHgDStC.jpg
+    sizes:
+      - rambukkana1_eKwHgDStC.jpg

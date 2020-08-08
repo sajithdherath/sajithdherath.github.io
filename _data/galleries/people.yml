@@ -1,9 +1,8 @@
 picture_path: people
 pictures:
 - &id001
-  filename: DSC05671
-  original: DSC05671.jpg
+  filename: DSC05671_Mlt4meS0vnV.jpg
+  original: DSC05671_Mlt4meS0vnV.jpg
   sizes:
-  - DSC05671.jpg
-  thumbnail: DSC05671-tb.jpg
+  - DSC05671_Mlt4meS0vnV.jpg
 preview: *id001

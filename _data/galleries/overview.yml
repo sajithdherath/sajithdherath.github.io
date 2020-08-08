@@ -1,70 +1,71 @@
 - title: Landscapes
   directory: landscapes
   preview:
-    filename: sripada1.jpg
-    original: sripada1.jpg
+    filename: sripada1_I5ZKzVnCwjO.jpg
+    original: sripada1_I5ZKzVnCwjO.jpg
     sizes:
-      - sripada1.jpg
-    thumbnail: sripada1-tb.jpg
+      - sripada1_I5ZKzVnCwjO.jpg
+    thumbnail: sripada1_I5ZKzVnCwjO.jpg
 
-#- title: Wildlife
-#  directory: wildlife
-#  preview:
-#    filename: DSC06392
-#    original: DSC06392.jpg
-#    sizes:
-#      - DSC06392.jpg
-#    thumbnail: DSC06392-tb.jpg
-#
-#- title: Architecture
-#  directory: architecture
-#  preview:
-#    filename: MVIMG_20181124_175347
-#    original: MVIMG_20181124_175347.jpg
-#    sizes:
-#      - MVIMG_20181124_175347.jpg
-#    thumbnail: MVIMG_20181124_175347-tb.jpg
-#- title: Nature
-#  directory: nature
-#  preview:
-#    filename: DSC02792
-#    original: DSC02792.jpg
-#    sizes:
-#      - DSC02792.jpg
-#    thumbnail: DSC02792-tb.jpg
-#
-#- title: People
-#  directory: people
-#  preview:
-#    filename: DSC05671
-#    original: DSC05671.jpg
-#    sizes:
-#      - DSC05671.jpg
-#    thumbnail: DSC05671-tb.jpg
-#
-#- title: Pets
-#  directory: pets
-#  preview:
-#    filename: DSC06652-2
-#    original: DSC06652-2.jpg
-#    sizes:
-#      - DSC06652-2.jpg
-#    thumbnail: DSC06652-2-tb.jpg
-#
-#- title: Street
-#  directory: street
-#  preview:
-#    filename: IMG_20190821_201725-2
-#    original: IMG_20190821_201725-2.jpg
-#    sizes:
-#      - IMG_20190821_201725-2.jpg
-#    thumbnail: IMG_20190821_201725-2-tb.jpg
-#
-#- title: Sunrise/Sunset
-#  directory: sunrise-sunset
-#  preview:
-#    filename: sunset-40
-#    original: sunset-40.jpg
-#    sizes:
-#      - sunset-40.jpg
-#    thumbnail: sunset-40-tb.jpg
+- title: Wildlife
+  directory: wildlife
+  preview:
+    filename: DSC06403_BsckXSFwUOC.jpg
+    original: DSC06403_BsckXSFwUOC.jpg
+    sizes:
+      - DSC06403_BsckXSFwUOC.jpg
+    thumbnail: DSC06403_BsckXSFwUOC.jpg
+
+- title: Architecture
+  directory: architecture
+  preview:
+    filename: MVIMG_20181124_175347_tSR9zJIONE-.jpg
+    original: MVIMG_20181124_175347_tSR9zJIONE-.jpg
+    sizes:
+      - MVIMG_20181124_175347_tSR9zJIONE-.jpg
+    thumbnail: MVIMG_20181124_175347-tb.jpg
+
+- title: Nature
+  directory: nature
+  preview:
+    filename: DSC02792_VlAmvJcKW.jpg
+    original: DSC02792_VlAmvJcKW.jpg
+    sizes:
+      - DSC02792_VlAmvJcKW.jpg
+    thumbnail: DSC02792_VlAmvJcKW.jpg
+
+- title: People
+  directory: people
+  preview:
+    filename: DSC05671_Mlt4meS0vnV.jpg
+    original: DSC05671_Mlt4meS0vnV.jpg
+    sizes:
+      - DSC05671_Mlt4meS0vnV.jpg
+    thumbnail: DSC05671_Mlt4meS0vnV.jpg
+
+- title: Pets
+  directory: pets
+  preview:
+    filename: DSC06652-2_yoiSqNxRJ.jpg
+    original: DSC06652-2_yoiSqNxRJ.jpg
+    sizes:
+      - DSC06652-2_yoiSqNxRJ.jpg
+    thumbnail: DSC06652-2_yoiSqNxRJ.jpg
+
+- title: Street
+  directory: streets
+  preview:
+    filename: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+    original: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+    sizes:
+      - IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+    thumbnail: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+
+- title: Sunrise/Sunset
+  directory: sunrise_sunset
+  preview:
+    filename: sunset-40_TDTLLsYxuMy.jpg
+    original: sunset-40_TDTLLsYxuMy.jpg
+    sizes:
+      - sunset-40_TDTLLsYxuMy.jpg
+    thumbnail: sunset-40_TDTLLsYxuMy.jpg
