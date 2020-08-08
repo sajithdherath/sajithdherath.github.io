@@ -1,89 +1,72 @@
 picture_path: wildlife
 pictures:
 - &id001
-  filename: DSC06392
-  original: DSC06392.jpg
+  filename: DSC06403_BsckXSFwUOC.jpg
+  original: DSC06403_BsckXSFwUOC.jpg
   sizes:
-  - DSC06392.jpg
-  thumbnail: DSC06392-tb.jpg
-- filename: DSC05221
-  original: DSC05221.jpg
+  - DSC06403_BsckXSFwUOC.jpg
+- filename: DSC05724_wwKQKFRxn.jpg
+  original: DSC05724_wwKQKFRxn.jpg
   sizes:
-  - DSC05221.jpg
-  thumbnail: DSC05221-tb.jpg
-- filename: DSC06344
-  original: DSC06344.jpg
+  - DSC05724_wwKQKFRxn.jpg
+- filename: DSC05192_W7r-rwjk8GB.jpg
+  original: DSC05192_W7r-rwjk8GB.jpg
   sizes:
-  - DSC06344.jpg
-  thumbnail: DSC06344-tb.jpg
-- filename: DSC05485
-  original: DSC05485.jpg
+  - DSC05192_W7r-rwjk8GB.jpg
+- filename: DSC06394_y-gxpQKfQ7F.jpg
+  original: DSC06394_y-gxpQKfQ7F.jpg
   sizes:
-  - DSC05485.jpg
-  thumbnail: DSC05485-tb.jpg
-- filename: DSC05844
-  original: DSC05844.jpg
+  - DSC06394_y-gxpQKfQ7F.jpg
+- filename: flying_bird_sinharaja_xjh8gbmJZ.jpg
+  original: flying_bird_sinharaja_xjh8gbmJZ.jpg
   sizes:
-  - DSC05844.jpg
-  thumbnail: DSC05844-tb.jpg
-- filename: DSC04264
-  original: DSC04264.jpg
+  - flying_bird_sinharaja_xjh8gbmJZ.jpg
+- filename: DSC07857-3_xIgGA2uTH.jpg
+  original: DSC07857-3_xIgGA2uTH.jpg
   sizes:
-  - DSC04264.jpg
-  thumbnail: DSC04264-tb.jpg
-- filename: DSC05192
-  original: DSC05192.jpg
+  - DSC07857-3_xIgGA2uTH.jpg
+- filename: DSC04264_aJW2PTJaAFH.jpg
+  original: DSC04264_aJW2PTJaAFH.jpg
   sizes:
-  - DSC05192.jpg
-  thumbnail: DSC05192-tb.jpg
-- filename: DSC07857-3
-  original: DSC07857-3.jpg
+  - DSC04264_aJW2PTJaAFH.jpg
+- filename: DSC01885_kJ1QLeW4Q.jpg
+  original: DSC01885_kJ1QLeW4Q.jpg
   sizes:
-  - DSC07857-3.jpg
-  thumbnail: DSC07857-3-tb.jpg
-- filename: DSC06403
-  original: DSC06403.jpg
+  - DSC01885_kJ1QLeW4Q.jpg
+- filename: DSC05485_4F2hyl5XN.jpg
+  original: DSC05485_4F2hyl5XN.jpg
   sizes:
-  - DSC06403.jpg
-  thumbnail: DSC06403-tb.jpg
-- filename: DSC04246
-  original: DSC04246.jpg
+  - DSC05485_4F2hyl5XN.jpg
+- filename: DSC05198_ZzKOgQZqU.jpg
+  original: DSC05198_ZzKOgQZqU.jpg
   sizes:
-  - DSC04246.jpg
-  thumbnail: DSC04246-tb.jpg
-- filename: DSC01885
-  original: DSC01885.jpg
+  - DSC05198_ZzKOgQZqU.jpg
+- filename: DSC05221_OngcyNXvlfc.jpg
+  original: DSC05221_OngcyNXvlfc.jpg
   sizes:
-  - DSC01885.jpg
-  thumbnail: DSC01885-tb.jpg
-- filename: flying bird sinharaja
-  original: flying bird sinharaja.jpg
+  - DSC05221_OngcyNXvlfc.jpg
+- filename: DSC05529_ZGSrv3CtVEH.jpg
+  original: DSC05529_ZGSrv3CtVEH.jpg
   sizes:
-  - flying bird sinharaja.jpg
-  thumbnail: flying bird sinharaja-tb.jpg
-- filename: DSC06394
-  original: DSC06394.jpg
+  - DSC05529_ZGSrv3CtVEH.jpg
+- filename: DSC06392_Gn1CYVaPvPa.jpg
+  original: DSC06392_Gn1CYVaPvPa.jpg
   sizes:
-  - DSC06394.jpg
-  thumbnail: DSC06394-tb.jpg
-- filename: DSC05724
-  original: DSC05724.jpg
+  - DSC06392_Gn1CYVaPvPa.jpg
+- filename: MVIMG_20190607_182921-3_j7RAzw9-cgd.jpg
+  original: MVIMG_20190607_182921-3_j7RAzw9-cgd.jpg
   sizes:
-  - DSC05724.jpg
-  thumbnail: DSC05724-tb.jpg
-- filename: DSC05198
-  original: DSC05198.jpg
+  - MVIMG_20190607_182921-3_j7RAzw9-cgd.jpg
+- filename: DSC05844_dCPO7Yx-A5G.jpg
+  original: DSC05844_dCPO7Yx-A5G.jpg
   sizes:
-  - DSC05198.jpg
-  thumbnail: DSC05198-tb.jpg
-- filename: DSC05529
-  original: DSC05529.jpg
+  - DSC05844_dCPO7Yx-A5G.jpg
+- filename: DSC06344_kVLST85zp.jpg
+  original: DSC06344_kVLST85zp.jpg
   sizes:
-  - DSC05529.jpg
-  thumbnail: DSC05529-tb.jpg
-- filename: MVIMG_20190607_182921-3
-  original: MVIMG_20190607_182921-3.jpg
+  - DSC06344_kVLST85zp.jpg
+- filename: DSC04246_c1Cn2dgOz.jpg
+  original: DSC04246_c1Cn2dgOz.jpg
   sizes:
-  - MVIMG_20190607_182921-3.jpg
-  thumbnail: MVIMG_20190607_182921-3-tb.jpg
+  - DSC04246_c1Cn2dgOz.jpg
 preview: *id001

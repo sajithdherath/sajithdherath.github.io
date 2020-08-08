@@ -1,0 +1,24 @@
+picture_path: sunrise_sunset
+pictures:
+- &id001
+  filename: sunset-40_TDTLLsYxuMy.jpg
+  original: sunset-40_TDTLLsYxuMy.jpg
+  sizes:
+  - sunset-40_TDTLLsYxuMy.jpg
+- filename: home1_tlC2O-VNX.jpg
+  original: home1_tlC2O-VNX.jpg
+  sizes:
+  - home1_tlC2O-VNX.jpg
+- filename: MVIMG_20180504_173043_n4yr-M6afV_.jpg
+  original: MVIMG_20180504_173043_n4yr-M6afV_.jpg
+  sizes:
+  - MVIMG_20180504_173043_n4yr-M6afV_.jpg
+- filename: IMG_20190910_182303_-sz-AeyJV.jpg
+  original: IMG_20190910_182303_-sz-AeyJV.jpg
+  sizes:
+  - IMG_20190910_182303_-sz-AeyJV.jpg
+- filename: IMG_20190703_181203_DgotbRbpf.jpg
+  original: IMG_20190703_181203_DgotbRbpf.jpg
+  sizes:
+  - IMG_20190703_181203_DgotbRbpf.jpg
+preview: *id001
