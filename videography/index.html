@@ -5,13 +5,15 @@ permalink: /videography/
 ---
 <div class="col-lg-8 offset-md-2">
     <div class="row">
+        {% for video in site.data.videography.overview %}
         <div class="card">
-            <div class="card-title">Sri Padaya Pilgrimage | ශ්‍රී පාද වන්දනාව | Adams Peak Pilgrimage</div>
+            <div class="card-title">{{video.title}}</div>
             <div class="row">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/pSYuoaFohNc" frameborder="0"
+                <iframe width="560" height="315" src="{{video.preview}}" frameborder="0"
                         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen></iframe>
             </div>
         </div>
+        {% endfor %}
     </div>
 </div>
