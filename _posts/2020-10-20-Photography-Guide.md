@@ -11,7 +11,7 @@ thumbnail:
 ## Camera Basics
 
 * Exposure Triangle
-  * Shutter speed
+    * Shutter speed
   * Aperture
   * ISO
 * Composition
@@ -21,7 +21,7 @@ thumbnail:
   * Balance and Symmetry
 * Focusing
   * Depth of fields
-* White balance and Color
+* White balance and Color   
 * Lighting and Flash
 * Importane of RAW images
 * Histogram
@@ -58,7 +58,10 @@ thumbnail:
 * Highlights
 * Shadows
 * Tone curves
-* Colors (Hue, Saturation, Luminance)
+* Colors
+  * Hue
+  * Saturation
+  * Luminance
 
 ## Youtube Channels to refer 
 
