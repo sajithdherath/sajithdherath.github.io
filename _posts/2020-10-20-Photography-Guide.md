@@ -7,7 +7,7 @@ category: photography
 summary: Photography Beginners Guide
 thumbnail: 
 ---
-You can find the open source version of this article from [here](https://github.com/sajithdherath/Photography-Guide) and don't hesitate to contribute 😊 
+You can find the open source version of this article from [here](https://github.com/sajithdherath/Photography-Guide) and you are welcome to contribute 😊 
 ## Camera Basics
 
 * Exposure Triangle
