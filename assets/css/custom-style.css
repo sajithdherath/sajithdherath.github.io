@@ -43,8 +43,8 @@ blockquote {
 }
 .article-card a :hover{
     text-decoration: none;
-    background: #303030!important;
-    border-color: #303030;
+    background: #e5e5e5!important;
+    border-color: #e5e5e5;
     background: transparent;
 }
 

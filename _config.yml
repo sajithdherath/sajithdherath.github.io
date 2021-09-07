@@ -26,24 +26,28 @@ author_logo: sajith.jpg
 author: Sajith Herath
 author_bio: Software Engineer
 author_description: >-
-  I work as a Software Engineer in machine learning at <a href="https://arimaclanka.com/">Arimac Lanka</a> where meets
-  talented and innovative engineers.<br><br>
-  In my free time, i travel around sri lanka🇱🇰 with my camera, my mother country. I love photography📷 in nature, wildlife
-  and landscapes. Check Gallery. I love reading books and finally hang with friends.
+  Highly skilled and enthusiastic software engineer with 2+ years of work experience in innovative application design
+  and development. Skilled in research and development, backend, machine learning, object-oriented and functional
+  programming, devops, and agile process.<br><br>
+
+  In my free time, I travel and do photography📷 in nature, wildlife
+  and landscapes. Check Gallery😉. Finally, I love hang with friends.
 author_email: "sajithdherath@gmail.com"
 author_location: Sri Lanka
-author_website_url: "http://sajithdherath.github.io/"
+author_website_url: "http://sajiya.dev/"
 
 author_timeline:
-  - "2019-2020: Software Engineer in Machine Learning: Arimac Lanka<br>"
-  - "2017-2018: Intern on Software Engineering: Fortunaglobal (Pvt) Limited<br>"
-  - "2015-2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster:
+  - "2021 - Present: Senior Software Engineer: PrimeSens LLC"
+  - "2020 - 2021: Freelance Software Engineer"
+  - "2019 - 2020: Software Engineer in Machine Learning: Arimac Lanka<br>"
+  - "2017 - 2018: Intern on Software Engineering: Fortunaglobal (Pvt) Limited<br>"
+  - "2015 - 2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster:
               BEng in Software Engineering<br>"
 
 
 # social links
 twitter_username: sajithdherath
-github_username:  sajithdherath
+github_username: sajithdherath
 facebook_username: sajith.deshapriya
 linkedin_username: sajith-herath
 instagram_username: sajith_deshappriya
@@ -78,7 +82,7 @@ show_author_project_details: true
 algolia:
   application_id: KJLONE9A5L
   index_name: blog_posts # You can replace that with whatever name you want
-  files_to_exclude: []
+  files_to_exclude: [ ]
   nodes_to_index: 'article'
   search_only_api_key: 982a04f5cb2c52827bed0b44f5aeedcd
 
