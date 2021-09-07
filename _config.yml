@@ -36,13 +36,55 @@ author_email: "sajithdherath@gmail.com"
 author_location: Sri Lanka
 author_website_url: "http://sajiya.dev/"
 
-author_timeline:
-  - "2021 - Present: Senior Software Engineer: PrimeSens LLC"
-  - "2020 - 2021: Freelance Software Engineer"
-  - "2019 - 2020: Software Engineer in Machine Learning: Arimac Lanka<br>"
-  - "2017 - 2018: Intern on Software Engineering: Fortunaglobal (Pvt) Limited<br>"
-  - "2015 - 2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster:
-              BEng in Software Engineering<br>"
+author_experience:
+  - "<b>2021 - Present: Senior Software Engineer: PrimeSens LLC</b>"
+  - "<b>2020 - 2021: Freelance Software Engineer</b><br>
+  • Designed and developed REST APIs with Python and Nodejs.<br>
+  - FastAPI<br>
+  - Express.js<br>
+  • Experience in video streaming domain<br>
+  - AWS Chime<br>
+  - FFMPEG<br>
+  - RTMP/HLS<br>
+  - WebRTC<br>
+  - Jitsi<br>
+  • Experince in DevOps - GCP, AWS, Azure<br>
+  - Conguring CI/CD pipelines<br>
+  - Conguring kubernetes clusters<br>"
+  - "<b>2019 - 2020: Software Engineer in Machine Learning: Arimac Lanka</b><br>
+  • Designed and developed innovative web application called
+  socialreach.ai that is a social media management tool.
+  Technologies used: Python, Mongodb, REST APIs, OAuth2,
+  Microservices, Docker, Kubernetes, Azure,
+  Sentiment Analysis, Background processes
+  Experienced with integration of facebook, instagram,
+  twitter and linkedin APIs with access approval process. Gained
+  knowledge about handling public data with GDPR compliance.
+  The product was awarded from NBQSA 2020 - Digital
+  Marketing and Advertising Category<br>
+  • Worked with Java spring boot microservices, computer vision
+  projects and experienced agile software development process.<br>"
+  - "<b>2017 - 2018: Software Engineer - Intern: Fortunaglobal (Pvt) Limited</b><br>
+  • Appointed to an AI based R&D chatbot project and
+  developed auence chatbots for banks that are able
+  to response to inquiries and provide online banking
+  facilities.<br>
+  • Seperate CMSs are developed for administrative
+  purposes that can maintain the chatbot and provide
+  insights of chats.<br>
+  • Designed and Implemented a chatbot to search news
+  for Ada Derana. A custom search engine is developed to
+  query news.<br>
+  • Designed and Developed a web application including a
+  chatbot that is able to register an insurance and claim
+  insurance policies instantly using the chat.<br>
+  • Developed the back-end for a mobile application that
+  enables digital marketing for the farming community.<br>
+  • Experience in deployment process on cloud servers<br>
+  and local servers with critical and high security configurations<br>
+  • Experience in Disaster Recovery(DR) process in banks<br>"
+  - "<b>2015 - 2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster:
+              BEng in Software Engineering (1<sup>st</sup> class honours)<b><br>"
 
 
 # social links
@@ -75,7 +117,7 @@ permalink: pretty
 google_analytics: UA-93971208-2
 
 # Choose what to show ( can be true or false)
-show_author_timeline: true
+show_author_experience: true
 show_author_project_details: true
 
 # algolia search
