@@ -4,8 +4,8 @@ layout: post
 author: Sajith Herath
 date: '2020-11-16 18:40:23 +0530'
 category: linux
-summary: linux commands
-thumbnail: null
+summary: Most helpful unusual linux commands
+thumbnail: linux-commands.png
 ---
 
 As a linux user for a decade, my experience is that linux users have an everlasting intimate bond with linux shell commands even though they were afraid as beginners. Since things that can be done with shell commands are more powerful and efficient than GUIs that might take more and more steps. Because it’s just a single line command.          

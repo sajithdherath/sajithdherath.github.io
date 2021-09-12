@@ -5,7 +5,7 @@ author: Sajith Herath
 date: '2020-10-20 14:35:23 +0530'
 category: photography
 summary: Photography Beginners Guide
-thumbnail: 
+thumbnail: photography.jpg
 ---
 You can find the open source version of this article from [here](https://github.com/sajithdherath/Photography-Guide) and you are welcome to contribute 😊 
 ## Camera Basics

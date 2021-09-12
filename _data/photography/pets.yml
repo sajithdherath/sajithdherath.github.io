@@ -21,4 +21,8 @@ pictures:
     original: 00100dPORTRAIT_00100_BURST20171118151327842_COVER-01_U_5CsbzYLg6.jpeg
     sizes:
       - 00100dPORTRAIT_00100_BURST20171118151327842_COVER-01_U_5CsbzYLg6.jpeg
+  - filename: DSC04071_5uGB_Jkbq_.jpg
+    original: DSC04071_5uGB_Jkbq_.jpg
+    sizes:
+      - DSC04071_5uGB_Jkbq_.jpg
 preview: *id001

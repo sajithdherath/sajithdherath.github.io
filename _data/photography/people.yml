@@ -1,8 +1,19 @@
 picture_path: people
 pictures:
-- &id001
-  filename: DSC05671_Mlt4meS0vnV.jpg
-  original: DSC05671_Mlt4meS0vnV.jpg
-  sizes:
-  - DSC05671_Mlt4meS0vnV.jpg
+  - &id001
+    filename: DSC05671_Mlt4meS0vnV.jpg
+    original: DSC05671_Mlt4meS0vnV.jpg
+    sizes:
+    - DSC05671_Mlt4meS0vnV.jpg
+
+  - filename: DSC07396__QZw9-_uJB.jpg
+    original: DSC07396__QZw9-_uJB.jpg
+    sizes:
+      - DSC07396__QZw9-_uJB.jpg
+
+  - filename: DSC07401_0FGVwyIkO.jpg
+    original: DSC07401_0FGVwyIkO.jpg
+    sizes:
+      - DSC07401_0FGVwyIkO.jpg
+
 preview: *id001
