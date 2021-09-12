@@ -4,7 +4,7 @@
         <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}"></div>
         {% for picture in include.gallery.pictures %}
         <a href="https://ik.imagekit.io/zjcob2ll62/sajiya_dev/{{ include.gallery.picture_path }}/{{ picture.original }}"
-           data-responsive="{% for size in picture.sizes %} https://ik.imagekit.io/zjcob2ll62/sajiya_dev/{{ include.gallery.picture_path }}/{{ size }}{% endfor %}"
+           data-responsive="{% for size in picture.sizes %}https://ik.imagekit.io/zjcob2ll62/sajiya_dev/{{ include.gallery.picture_path }}/{{ size }}{% endfor %}"
            class="image"
            {% if picture.title %}
            data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"

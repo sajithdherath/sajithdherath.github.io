@@ -69,4 +69,41 @@ pictures:
   original: DSC04246_c1Cn2dgOz.jpg
   sizes:
   - DSC04246_c1Cn2dgOz.jpg
+- filename: DSC00528_w7g4QhY8t.jpg
+  original: DSC00528_w7g4QhY8t.jpg
+  sizes:
+    - DSC00528_w7g4QhY8t.jpg
+- filename: DSC02005_srmSM_NAn.jpg
+  original: DSC02005_srmSM_NAn.jpg
+  sizes:
+    - DSC02005_srmSM_NAn.jpg
+- filename: DSC02002_FxHMNMA91h.jpg
+  original: DSC02002_FxHMNMA91h.jpg
+  sizes:
+    - DSC02002_FxHMNMA91h.jpg
+- filename: DSC02123_quaU2qdUq.jpg
+  original: DSC02123_quaU2qdUq.jpg
+  sizes:
+    - DSC02123_quaU2qdUq.jpg
+- filename: DSC02775_4lp0TLx7C.jpg
+  original: DSC02775_4lp0TLx7C.jpg
+  sizes:
+    - DSC02775_4lp0TLx7C.jpg
+- filename: DSC02779_zNBDGHeuxh.jpg
+  original: DSC02779_zNBDGHeuxh.jpg
+  sizes:
+    - DSC02779_zNBDGHeuxh.jpg
+- filename: DSC03125_ZWEidfLXV.jpg
+  original: DSC03125_ZWEidfLXV.jpg
+  sizes:
+    - DSC03125_ZWEidfLXV.jpg
+- filename: DSC04080_T0A45oNer.jpg
+  original: DSC04080_T0A45oNer.jpg
+  sizes:
+    - DSC04080_T0A45oNer.jpg
+- filename: DSC04633_GRfvN7Wb8.jpg
+  original: DSC04633_GRfvN7Wb8.jpg
+  sizes:
+    - DSC04633_GRfvN7Wb8.jpg
+
 preview: *id001
