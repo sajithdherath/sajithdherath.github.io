@@ -1,12 +1,21 @@
 picture_path: streets
 pictures:
-- &id001
-  filename: IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
-  original: IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
-  sizes:
-  - IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
-- filename: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
-  original: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
-  sizes:
-  - IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+  - &id001
+    filename: IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
+    original: IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
+    sizes:
+      - IMG_20180131_140223-01_lAsDIzN9oLE.jpeg
+  - filename: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+    original: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+    sizes:
+      - IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+  - filename: DSC01982_En0_WXFrV.jpg
+    original: DSC01982_En0_WXFrV.jpg
+    sizes:
+      - DSC01982_En0_WXFrV.jpg
+  - filename: MVIMG_20180709_212127-01_UVfftaGPt.jpeg
+    original: MVIMG_20180709_212127-01_UVfftaGPt.jpeg
+    sizes:
+      - MVIMG_20180709_212127-01_UVfftaGPt.jpeg
+
 preview: *id001

@@ -11,4 +11,8 @@ pictures:
     sizes:
       - IMG_20180115_173259-01__biWxSEhA.jpeg
 
+  - filename: DSC01125_28XP5a-V3.jpg
+    original: DSC01125_28XP5a-V3.jpg
+    sizes:
+      - DSC01125_28XP5a-V3.jpg
 preview: *id001

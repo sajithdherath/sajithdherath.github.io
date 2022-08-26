@@ -10,20 +10,20 @@
 - title: Wildlife
   directory: wildlife
   preview:
-    filename: DSC06403_BsckXSFwUOC.jpg
-    original: DSC06403_BsckXSFwUOC.jpg
+    filename: DSC05485_4F2hyl5XN.jpg
+    original: DSC05485_4F2hyl5XN.jpg
     sizes:
-      - DSC06403_BsckXSFwUOC.jpg
-    thumbnail: DSC06403_BsckXSFwUOC.jpg
+      - DSC05485_4F2hyl5XN.jpg
+    thumbnail: DSC05485_4F2hyl5XN.jpg
 
 - title: Architecture
   directory: architecture
   preview:
-    filename: MVIMG_20181124_175347_tSR9zJIONE-.jpg
-    original: MVIMG_20181124_175347_tSR9zJIONE-.jpg
+    filename: DSC01125_28XP5a-V3.jpg
+    original: DSC01125_28XP5a-V3.jpg
     sizes:
-      - MVIMG_20181124_175347_tSR9zJIONE-.jpg
-    thumbnail: MVIMG_20181124_175347-tb.jpg
+      - DSC01125_28XP5a-V3.jpg
+    thumbnail: DSC01125_28XP5a-V3.jpg
 
 - title: Nature
   directory: nature
@@ -37,11 +37,11 @@
 - title: People
   directory: people
   preview:
-    filename: DSC05671_Mlt4meS0vnV.jpg
-    original: DSC05671_Mlt4meS0vnV.jpg
+    filename: DSC07401_0FGVwyIkO.jpg
+    original: DSC07401_0FGVwyIkO.jpg
     sizes:
-      - DSC05671_Mlt4meS0vnV.jpg
-    thumbnail: DSC05671_Mlt4meS0vnV.jpg
+      - DSC07401_0FGVwyIkO.jpg
+    thumbnail: DSC07401_0FGVwyIkO.jpg
 
 - title: Pets
   directory: pets
@@ -55,11 +55,11 @@
 - title: Streets
   directory: streets
   preview:
-    filename: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
-    original: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+    filename: DSC01982_En0_WXFrV.jpg
+    original: DSC01982_En0_WXFrV.jpg
     sizes:
-      - IMG_20190821_201725-2_nTuBlbNpfIW.jpg
-    thumbnail: IMG_20190821_201725-2_nTuBlbNpfIW.jpg
+      - DSC01982_En0_WXFrV.jpg
+    thumbnail: DSC01982_En0_WXFrV.jpg
 
 - title: Sunrise/Sunset
   directory: sunrise_sunset

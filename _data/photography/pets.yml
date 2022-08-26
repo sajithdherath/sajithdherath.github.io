@@ -25,4 +25,8 @@ pictures:
     original: DSC04071_5uGB_Jkbq_.jpg
     sizes:
       - DSC04071_5uGB_Jkbq_.jpg
+  - filename: DSC03644_d_li9whmm.jpg
+    original: DSC03644_d_li9whmm.jpg
+    sizes:
+      - DSC03644_d_li9whmm.jpg
 preview: *id001

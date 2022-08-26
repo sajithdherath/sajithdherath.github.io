@@ -1,7 +1,6 @@
 picture_path: wildlife
 pictures:
-- &id001
-  filename: DSC06403_BsckXSFwUOC.jpg
+- filename: DSC06403_BsckXSFwUOC.jpg
   original: DSC06403_BsckXSFwUOC.jpg
   sizes:
   - DSC06403_BsckXSFwUOC.jpg
@@ -33,7 +32,8 @@ pictures:
   original: DSC01885_kJ1QLeW4Q.jpg
   sizes:
   - DSC01885_kJ1QLeW4Q.jpg
-- filename: DSC05485_4F2hyl5XN.jpg
+- &id008
+  filename: DSC05485_4F2hyl5XN.jpg
   original: DSC05485_4F2hyl5XN.jpg
   sizes:
   - DSC05485_4F2hyl5XN.jpg
@@ -106,4 +106,4 @@ pictures:
   sizes:
     - DSC04633_GRfvN7Wb8.jpg
 
-preview: *id001
+preview: *id008
