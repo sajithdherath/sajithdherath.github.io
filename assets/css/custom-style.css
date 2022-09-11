@@ -37,6 +37,9 @@ blockquote {
 .card :hover{
     text-decoration: none;
 }
+.card-body{
+    font-size: 18px;
+}
 .article-card-link, .article-card-link:hover{
     text-decoration: none;
     color: orange !important;
@@ -52,7 +55,9 @@ blockquote {
 .highlighter-rouge{
     width: 80%
 }
-
+.post-title{
+    text-align: center;
+}
 .hljs-string,
 .hljs-section,
 .hljs-selector-class,
