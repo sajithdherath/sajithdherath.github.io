@@ -22,7 +22,7 @@ urls:
 
 author_logo: sajith.png
 author: Sajith Herath
-author_bio: Research Software Engineer
+author_bio: Seniorgit Software Engineer
 author_description: >-
   Highly skilled and enthusiastic software engineer with 3+ years of work experience in innovative application design
   and development. Skilled in research and development, backend, machine learning, object-oriented and functional
@@ -32,7 +32,7 @@ author_description: >-
   and landscapes. Check Gallery😉. Finally, I love hang with friends.
 author_email: "sajithdherath@gmail.com"
 author_location: Sri Lanka
-author_website_url: "http://sajiya.dev/"
+author_website_url: "https://sajiya.dev/"
 
 author_experience:
   - "<b>2021 - Present: Senior Research Software Engineer: PrimeSens LLC</b>"
