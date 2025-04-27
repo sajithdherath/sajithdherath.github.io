@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:latest as build
+FROM jekyll/jekyll:4.2.0 as build
 
 WORKDIR /srv/jekyll
 

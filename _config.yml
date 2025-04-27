@@ -20,71 +20,68 @@ urls:
 
 # Edit these details
 
-author_logo: sajith.png
+author_logo: profile_pic_2025.png
 author: Sajith Herath
 author_bio: Senior Software Engineer
 author_description: >-
-  Highly skilled and enthusiastic software engineer with 3+ years of work experience in innovative application design
-  and development. Skilled in research and development, backend, machine learning, object-oriented and functional
-  programming, devops, and agile process.<br><br>
+  I am a Python backend engineer with 6 years of experience, dedicated to building reliable, high-performance systems that deliver results 
+  every time. My recent work focuses on integrating large language models (LLMs), AI automation, and agentic workflows-ensuring that the 
+  solutions I develop are both innovative and robust.<br><br>
 
-  I'm a true sports lover and I'm a calisthenics athlete. In my free time, I travel and do photography📷 in nature, wildlife
-  and landscapes. Check Gallery😉. Finally, I love hang with friends.
+  Through hands-on experience with scalable architectures, I have developed a strong command of the design patterns, frameworks, and tools essential 
+  for dependable software at scale. I am committed to high-quality testing and rapid validation cycles, always striving to deliver solutions that 
+  are both correct and efficient.<br><br>
+
+  I enjoy tackling challenging problems at the intersection of backend engineering and artificial intelligence, and I’m always eager to 
+  learn and apply the latest technologies.<br><br>
+
+  Outside of work, I’m passionate about calisthenics, traveling, and capturing the beauty of nature through photography. 
+  I value connecting with others and am always open to new ideas and collaborations.
 author_email: "sajithdherath@gmail.com"
 author_location: Sri Lanka
 author_website_url: "https://sajiya.dev/"
 
-author_experience:
-  - "<b>2021 - Present: Senior Research Software Engineer: PrimeSens LLC</b>"
-  - "<b>2020 - 2021: Freelance Software Engineer</b><br>
-  • Designed and developed REST APIs with Python and Nodejs.<br>
-  - FastAPI<br>
-  - Express.js<br>
-  • Experience in video streaming domain<br>
-  - AWS Chime<br>
-  - FFMPEG<br>
-  - RTMP/HLS<br>
-  - WebRTC<br>
-  - Jitsi<br>
-  • Experience in DevOps - GCP, AWS, Azure<br>
-  - Configuring CI/CD pipelines<br>
-  - Configuring kubernetes clusters<br>"
-  - "<b>2019 - 2020: Software Engineer in Machine Learning: Arimac Lanka</b><br>
-  • Designed and developed innovative web application called
-  socialreach.ai that is a social media management tool.
-  Technologies used: Python, Mongodb, REST APIs, OAuth2,
-  Microservices, Docker, Kubernetes, Azure,
-  Sentiment Analysis, Background processes
-  Experienced with integration of facebook, instagram,
-  twitter and linkedin APIs with access approval process. Gained
-  knowledge about handling public data with GDPR compliance.
-  The product was awarded from NBQSA 2020 - Digital
-  Marketing and Advertising Category<br>
-  • Worked with Java spring boot microservices, computer vision
-  projects and experienced agile software development process.<br>"
-  - "<b>2017 - 2018: Software Engineer - Intern: Fortunaglobal (Pvt) Limited</b><br>
-  • Appointed to an AI based R&D chatbot project and
-  developed AI chatbots for banks that are able
-  to response to inquiries and provide online banking
-  facilities.<br>
-  • Separate CMSs are developed for administrative
-  purposes that can maintain the chatbot and provide
-  insights of chats.<br>
-  • Designed and Implemented a chatbot to search news
-  for Ada Derana. A custom search engine is developed to
-  query news.<br>
-  • Designed and Developed a web application including a
-  chatbot that is able to register an insurance and claim
-  insurance policies instantly using the chat.<br>
-  • Developed the back-end for a mobile application that
-  enables digital marketing for the farming community.<br>
-  • Experience in deployment process on cloud servers<br>
-  and local servers with critical and high security configurations<br>
-  • Experience in Disaster Recovery(DR) process in banks<br>"
-  - "<b>2015 - 2019: Informatics Institute of Technology (IIT-Sri Lanka) affiliated with University of Westminster:
-              BEng in Software Engineering (1<sup>st</sup> class honours)<b><br>"
+author_experience: |
+  <b>Senior Software Engineer – Python (AI/ML, LLM & Agentic Workflow Integration)</b><br>
+  <b>PRIMESENS LLC</b> | Aug 2022 – Present<br>
+  - Architected and implemented agentic AI workflows, integrating LLMs with a CRM platform to automate lead scoring, streamline 
+  customer interactions through chatbot, and drive intelligent decision-making.<br>
+  - Reduced AWS server costs by 89% (from $18,000 to $2,000 monthly) by designing and implementing a custom video transcoding solution 
+    implementing an AWS MediaLive substitute, and engineered a real-time closed captioning engine to improve accessibility and user engagement..<br>
+  - Developed and deployed a time series forecasting solution to predict geo-specific mortgage rates across 27,000 U.S. zip codes, 
+    enabling the client to deliver hyper-localized financial insights and significantly enhance their product’s market relevance..<br>
+  - Implemented a collaborative recommendation system that utilized facial feature classification to enable 3D and augmented reality (AR) 
+    try-on experiences for online shopping, enhancing personalization and customer satisfaction in the e-commerce platform..<br>
+  <b>Tech Stack:</b> Python, FastAPI, Langchain, Docker, Kubernetes, AWS, GCP <br><br>
 
+  <b>Freelance Software Engineer</b> | 2020 – 2021<br>
+  - Designed and built REST APIs and microservices (FastAPI, Express.js), including real-time video streaming solutions (AWS Chime, FFMPEG, WebRTC).<br>
+  - Implemented DevOps pipelines and managed cloud deployments (AWS, GCP, Azure), including Kubernetes orchestration and CI/CD automation.<br><br>
 
+  <b>Software Engineer – Machine Learning</b><br>
+  <b>Arimac Lanka</b> | 2019 – 2020<br>
+  - Developed socialreach.ai, an award-winning social media management tool leveraging sentiment analysis and multi-platform API integrations.<br>
+  - Built microservices and computer vision solutions using Python, MongoDB, Docker, and Azure, ensuring GDPR compliance and robust data handling.<br><br>
+
+  <b>Software Engineer Intern</b><br>
+  <b>Fortunaglobal (Pvt) Limited</b> | 2017 – 2018<br>
+  - Developed AI-powered chatbots for banking and insurance, including custom CMS tools for analytics and management.<br>
+  - Engineered backend systems for digital marketing and disaster recovery processes in high-security environments.<br><br><br>
+
+  <b>Education</b><br><br>
+  <b>BEng in Software Engineering (First Class Honours)</b><br>
+  Informatics Institute of Technology (IIT-Sri Lanka), affiliated with University of Westminster | 2015 – 2019<br><br><br>
+
+  <b>Core Interests & Skills</b><br><br>
+  <b>LLMs & Generative AI:</b> Integration, fine-tuning, and workflow automation with large language models.<br>
+  <b>Agentic Workflows:</b> Designing autonomous, adaptive AI systems for business process automation.<br>
+  <b>Backend Engineering:</b> Scalable Python APIs, microservices, and cloud-native architectures.<br>
+  <b>Machine Learning:</b> Recommendation systems, NLP, and predictive analytics.<br>
+  <b>DevOps & Cloud:</b> Docker, Kubernetes, AWS, GCP, CI/CD.<br><br><br>
+
+  <b>Let’s Connect</b><br><br>
+  I’m always open to collaborating on innovative AI projects or discussing the future of agentic automation.<br>
+  Feel free to reach out or explore my portfolio for more!<br>
 # social links
 twitter_username: sajithdherath
 github_username: sajithdherath
@@ -122,8 +119,8 @@ show_author_project_details: true
 algolia:
   application_id: KJLONE9A5L
   index_name: blog_posts # You can replace that with whatever name you want
-  files_to_exclude: [ ]
-  nodes_to_index: 'article'
+  files_to_exclude: []
+  nodes_to_index: "article"
   search_only_api_key: 982a04f5cb2c52827bed0b44f5aeedcd
 
 # pagination of posts
@@ -167,7 +164,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-algolia
   - jekyll-menus
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
