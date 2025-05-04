@@ -44,33 +44,57 @@ author_website_url: "https://sajiya.dev/"
 author_experience: |
   <b>Senior Software Engineer – Python (AI/ML, LLM & Agentic Workflow Integration)</b><br>
   <b>PRIMESENS LLC</b> | Aug 2022 – Present<br>
-  - Architected and implemented agentic AI workflows, integrating LLMs with a CRM platform to automate lead scoring, streamline 
-  customer interactions through chatbot, and drive intelligent decision-making.<br>
-  - Reduced AWS server costs by 89% (from $18,000 to $2,000 monthly) by designing and implementing a custom video transcoding solution 
-    implementing an AWS MediaLive substitute, and engineered a real-time closed captioning engine to improve accessibility and user engagement..<br>
-  - Developed and deployed a time series forecasting solution to predict geo-specific mortgage rates across 27,000 U.S. zip codes, 
-    enabling the client to deliver hyper-localized financial insights and significantly enhance their product’s market relevance..<br>
-  - Implemented a collaborative recommendation system that utilized facial feature classification to enable 3D and augmented reality (AR) 
-    try-on experiences for online shopping, enhancing personalization and customer satisfaction in the e-commerce platform..<br>
+
+  - Architected and developed LLM-powered microservices for a CRM, featuring intelligent lead scoring and an agentic AI chatbot to 
+  streamline customer interactions and prioritize deals<br>
+
+  - Developed an LLM-based analyzer to automatically extract and unify tabular data from diverse rent roll and T12 financial documents 
+  (PDFs/spreadsheets), accelerating real estate analysis<br>
+
+  - Reduced AWS server costs by 89% by designing a GPU-accelerated video transcoding solution as an alternative to AWS MediaLive<br>
+
+  - Engineered a real-time closed captioning engine utilizing speech-to-text machine learning models<br>
+
+  - Developed multivariate time series forecasting models for geo-specific mortgage rates, delivering insights to enhance financial analysis 
+  and investment strategies<br>
+
+  - Engineered a recommendation system using Collaborative Filtering and a CNN facial classifier to power 3D/AR try-on experiences, 
+  enhancing e-commerce personalization<br>
+
+  - Designed and deployed scalable microservices for a unified social media management platform, integrating Facebook, Instagram, X, and LinkedIn APIs, 
+  managed via Kubernetes<br>
+
+  - Developed high-throughput post schedulers for complex media files and optimized data analysis across 50+ metrics for key social media insights
   <b>Tech Stack:</b> Python, FastAPI, Langchain, Docker, Kubernetes, AWS, GCP <br><br>
 
-  <b>Freelance Software Engineer</b> | 2020 – 2021<br>
-  - Designed and built REST APIs and microservices (FastAPI, Express.js), including real-time video streaming solutions (AWS Chime, FFMPEG, WebRTC).<br>
-  - Implemented DevOps pipelines and managed cloud deployments (AWS, GCP, Azure), including Kubernetes orchestration and CI/CD automation.<br><br>
+  <b>Self Employed​ Software Engineer</b> | Oct 2020 – Aug 2021<br>
+
+  - Built and scaled automated ETL pipelines for SEC Form 4 data, processing 5 million historical records and over 3,000 daily filings 
+  for insider trading analytics<br>
+
+  - Developed and maintained web scrapers covering over 8,000 companies, enriching Form 4 datasets to deliver actionable trading insights<br>
+
+  - Designed and implemented REST APIs (FastAPI) and microservices, including real-time video streaming solutions using AWS Chime, FFMPEG, and WebRTC<br>
+
+  - Implemented DevOps pipelines and managed cloud deployments across AWS, GCP, and Azure, leveraging Kubernetes and CI/CD automation for 
+  resilient and scalable software delivery<br><br>
 
   <b>Software Engineer – Machine Learning</b><br>
-  <b>Arimac Lanka</b> | 2019 – 2020<br>
-  - Developed socialreach.ai, an award-winning social media management tool leveraging sentiment analysis and multi-platform API integrations.<br>
-  - Built microservices and computer vision solutions using Python, MongoDB, Docker, and Azure, ensuring GDPR compliance and robust data handling.<br><br>
+  <b>Arimac Lanka (pvt) Limited​</b> | Jul 2019 – Sept 2020<br>
+  - Engineered multi-platform integrations for a social listening tool, expanding data extraction across various channels for comprehensive analysis 
+  of trends, conversations, and brand sentiment<br>
+
+  - Integrated SERP analysis into the social listening tool, enabling extraction of web search data to provide richer context alongside social media analysis<br><br>
 
   <b>Software Engineer Intern</b><br>
-  <b>Fortunaglobal (Pvt) Limited</b> | 2017 – 2018<br>
-  - Developed AI-powered chatbots for banking and insurance, including custom CMS tools for analytics and management.<br>
-  - Engineered backend systems for digital marketing and disaster recovery processes in high-security environments.<br><br><br>
+  <b>Fortunaglobal (Pvt) Limited</b> | Jul 2017 – Jul 2018<br>
+  - Developed fintech chatbots using fuzzy logic and sequence ML models to automate customer inquiries and provide secure access to online banking functionalities<br>
+
+  - Built a dashboard visualizing chatbot interactions and managed secure on-premise deployment, ensuring compliance with strict banking security standards<br><br>
 
   <b>Education</b><br><br>
   <b>BEng in Software Engineering (First Class Honours)</b><br>
-  Informatics Institute of Technology (IIT-Sri Lanka), affiliated with University of Westminster | 2015 – 2019<br><br><br>
+  University of Westminster | 2015 – 2019<br><br><br>
 
   <b>Core Interests & Skills</b><br><br>
   <b>LLMs & Generative AI:</b> Integration, fine-tuning, and workflow automation with large language models.<br>
