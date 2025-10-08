@@ -129,7 +129,15 @@ defaults:
   - scope:
       path: "photography"
     values:
-      permalink: /:path/:basename:output_ext
+      sitemap: false
+  - scope:
+      path: "videography"
+    values:
+      sitemap: false
+  - scope:
+      path: "assets/bower_components"
+    values:
+      sitemap: false
 
 # Build settings
 plugins:

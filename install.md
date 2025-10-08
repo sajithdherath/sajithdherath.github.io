@@ -3,6 +3,7 @@ title:  Get Started
 menus: header
 layout: page
 permalink: /get-started/
+published: false
 ---
 
 ## Getting Started - How to create your blog using devlopr-jekyll
