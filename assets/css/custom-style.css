@@ -16,6 +16,14 @@ blockquote {
     width: 50%;
     margin: 15px 0 0px 25%;
 }
+.section h5{
+    margin-bottom: 20px;
+}
+
+.section ul{
+    padding-left: 20px;
+}
+
 #recent-articles,#recent-projects{
     margin-top: 100px !important;
 }

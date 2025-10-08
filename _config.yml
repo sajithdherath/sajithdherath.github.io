@@ -22,7 +22,7 @@ urls:
 
 author_logo: profile_pic_2025.png
 author: Sajith Herath
-author_bio: Senior Software Engineer
+author_bio: Lead Software Engineer
 author_description: >-
   I am a Python backend engineer with 6 years of experience, dedicated to building reliable, high-performance systems that deliver results 
   every time. My recent work focuses on integrating large language models (LLMs), AI automation, and agentic workflows-ensuring that the 
@@ -39,58 +39,10 @@ author_description: >-
   I value connecting with others and am always open to new ideas and collaborations.
 author_email: "sajithdherath@gmail.com"
 author_location: Sri Lanka
-author_website_url: "https://sajiya.dev/"
+author_website_url: "https://sajithdherath.github.io/"
 
 author_experience: |
-  <b>Senior Software Engineer – Python (AI/ML, LLM & Agentic Workflow Integration)</b><br>
-  <b>PRIMESENS LLC</b> | Aug 2022 – Present<br>
-
-  - Architected and developed LLM-powered microservices for a CRM, featuring intelligent lead scoring and an agentic AI chatbot to 
-  streamline customer interactions and prioritize deals<br>
-
-  - Developed an LLM-based analyzer to automatically extract and unify tabular data from diverse rent roll and T12 financial documents 
-  (PDFs/spreadsheets), accelerating real estate analysis<br>
-
-  - Reduced AWS server costs by 89% by designing a GPU-accelerated video transcoding solution as an alternative to AWS MediaLive<br>
-
-  - Engineered a real-time closed captioning engine utilizing speech-to-text machine learning models<br>
-
-  - Developed multivariate time series forecasting models for geo-specific mortgage rates, delivering insights to enhance financial analysis 
-  and investment strategies<br>
-
-  - Engineered a recommendation system using Collaborative Filtering and a CNN facial classifier to power 3D/AR try-on experiences, 
-  enhancing e-commerce personalization<br>
-
-  - Designed and deployed scalable microservices for a unified social media management platform, integrating Facebook, Instagram, X, and LinkedIn APIs, 
-  managed via Kubernetes<br>
-
-  - Developed high-throughput post schedulers for complex media files and optimized data analysis across 50+ metrics for key social media insights
-  <b>Tech Stack:</b> Python, FastAPI, Langchain, Docker, Kubernetes, AWS, GCP <br><br>
-
-  <b>Self Employed​ Software Engineer</b> | Oct 2020 – Aug 2021<br>
-
-  - Built and scaled automated ETL pipelines for SEC Form 4 data, processing 5 million historical records and over 3,000 daily filings 
-  for insider trading analytics<br>
-
-  - Developed and maintained web scrapers covering over 8,000 companies, enriching Form 4 datasets to deliver actionable trading insights<br>
-
-  - Designed and implemented REST APIs (FastAPI) and microservices, including real-time video streaming solutions using AWS Chime, FFMPEG, and WebRTC<br>
-
-  - Implemented DevOps pipelines and managed cloud deployments across AWS, GCP, and Azure, leveraging Kubernetes and CI/CD automation for 
-  resilient and scalable software delivery<br><br>
-
-  <b>Software Engineer – Machine Learning</b><br>
-  <b>Arimac Lanka (pvt) Limited​</b> | Jul 2019 – Sept 2020<br>
-  - Engineered multi-platform integrations for a social listening tool, expanding data extraction across various channels for comprehensive analysis 
-  of trends, conversations, and brand sentiment<br>
-
-  - Integrated SERP analysis into the social listening tool, enabling extraction of web search data to provide richer context alongside social media analysis<br><br>
-
-  <b>Software Engineer Intern</b><br>
-  <b>Fortunaglobal (Pvt) Limited</b> | Jul 2017 – Jul 2018<br>
-  - Developed fintech chatbots using fuzzy logic and sequence ML models to automate customer inquiries and provide secure access to online banking functionalities<br>
-
-  - Built a dashboard visualizing chatbot interactions and managed secure on-premise deployment, ensuring compliance with strict banking security standards<br><br>
+  
 
   <b>Education</b><br><br>
   <b>BEng in Software Engineering (First Class Honours)</b><br>
